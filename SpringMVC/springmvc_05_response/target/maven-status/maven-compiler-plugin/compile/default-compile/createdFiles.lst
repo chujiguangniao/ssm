@@ -1,0 +1,7 @@
+com\controller\BookController.class
+com\domain\User.class
+com\domain\Address.class
+com\controller\UserController.class
+com\config\SpringConfig.class
+com\config\SpringMvcConfig.class
+com\config\ServletContainersInitConfig.class

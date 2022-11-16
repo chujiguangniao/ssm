@@ -1,0 +1,14 @@
+127.0.0.1 - - [12/Oct/2022:19:23:15 +0800] "GET /springmvc_04_request_param/user/listParamJson HTTP/1.1" 200 39 http-bio-8082-exec-1 163
+127.0.0.1 - - [12/Oct/2022:19:35:02 +0800] "GET /springmvc_04_request_param/user/pojoParamJson HTTP/1.1" 200 33 http-bio-8082-exec-1 213
+127.0.0.1 - - [12/Oct/2022:19:41:16 +0800] "GET /springmvc_04_request_param/user/pojoParamJson HTTP/1.1" 400 968 http-bio-8082-exec-3 13
+127.0.0.1 - - [12/Oct/2022:19:41:21 +0800] "GET /springmvc_04_request_param/user/pojoParamJson HTTP/1.1" 200 33 http-bio-8082-exec-4 3
+127.0.0.1 - - [12/Oct/2022:19:50:06 +0800] "GET /springmvc_04_request_param/user/listPojoParamJson HTTP/1.1" 200 33 http-bio-8082-exec-1 199
+127.0.0.1 - - [12/Oct/2022:20:17:44 +0800] "GET /springmvc_04_request_param/user/dataParam?data=2022%2F10%2F12 HTTP/1.1" 200 23 http-bio-8082-exec-1 131
+127.0.0.1 - - [12/Oct/2022:20:19:09 +0800] "GET /springmvc_04_request_param/user/dataParam?data=2022%2F10%2F12 HTTP/1.1" 200 23 http-bio-8082-exec-3 3
+127.0.0.1 - - [12/Oct/2022:20:20:41 +0800] "GET /springmvc_04_request_param/user/dataParam?data=2022%2F10%2F12 HTTP/1.1" 200 23 http-bio-8082-exec-5 2
+127.0.0.1 - - [12/Oct/2022:20:23:42 +0800] "GET /springmvc_04_request_param/user/dataParam?data=2022%2F10%2F12 HTTP/1.1" 500 4093 http-bio-8082-exec-1 126
+127.0.0.1 - - [12/Oct/2022:20:24:59 +0800] "GET /springmvc_04_request_param/user/dataParam?data=2022%2F10%2F12 HTTP/1.1" 200 23 http-bio-8082-exec-1 119
+127.0.0.1 - - [12/Oct/2022:20:27:30 +0800] "GET /springmvc_04_request_param/user/dataParam?date=2022%2F10%2F12&date1=2022-10-12 HTTP/1.1" 200 23 http-bio-8082-exec-1 132
+127.0.0.1 - - [12/Oct/2022:20:32:47 +0800] "GET /springmvc_04_request_param/user/dataParam?date=2022%2F10%2F12&date1=2022-10-12&date2=2022%2F10%2F12%2F20%3A08%3A08 HTTP/1.1" 400 968 http-bio-8082-exec-1 124
+127.0.0.1 - - [12/Oct/2022:20:34:24 +0800] "GET /springmvc_04_request_param/user/dataParam?date=2022%2F10%2F12&date1=2022-10-12&date2=2022%2F10%2F12%2F20%3A08%3A08 HTTP/1.1" 400 968 http-bio-8082-exec-1 121
+127.0.0.1 - - [12/Oct/2022:20:34:37 +0800] "GET /springmvc_04_request_param/user/dataParam?date=2022%2F10%2F12&date1=2022-10-12&date2=2022%2F10%2F12%2020%3A08%3A08 HTTP/1.1" 200 23 http-bio-8082-exec-2 28

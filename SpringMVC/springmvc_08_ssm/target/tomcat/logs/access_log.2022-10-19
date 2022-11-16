@@ -1,0 +1,6 @@
+127.0.0.1 - - [19/Oct/2022:14:09:37 +0800] "POST /springmvc_08_ssm/books HTTP/1.1" 200 14 http-bio-8082-exec-1 1786
+127.0.0.1 - - [19/Oct/2022:14:17:21 +0800] "PUT /springmvc_08_ssm/books HTTP/1.1" 200 14 http-bio-8082-exec-3 24
+127.0.0.1 - - [19/Oct/2022:14:19:00 +0800] "POST /springmvc_08_ssm/books HTTP/1.1" 200 14 http-bio-8082-exec-5 8
+127.0.0.1 - - [19/Oct/2022:14:20:35 +0800] "DELETE /springmvc_08_ssm/books/14 HTTP/1.1" 200 14 http-bio-8082-exec-7 24
+127.0.0.1 - - [19/Oct/2022:14:21:32 +0800] "GET /springmvc_08_ssm/books HTTP/1.1" 200 2108 http-bio-8082-exec-9 72
+127.0.0.1 - - [19/Oct/2022:14:21:54 +0800] "GET /springmvc_08_ssm/books/13 HTTP/1.1" 200 114 http-bio-8082-exec-1 0

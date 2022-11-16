@@ -1,0 +1,8 @@
+com\controller\BookController.class
+com\config\SpringMvcSupport.class
+com\domain\User.class
+com\config\SpringConfig.class
+com\controller\interceptor\ProjectInterceptor.class
+com\controller\interceptor\ProjectInterceptor2.class
+com\config\SpringMvcConfig.class
+com\config\ServletContainersInitConfig.class

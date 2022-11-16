@@ -1,0 +1,14 @@
+127.0.0.1 - - [14/Oct/2022:15:56:08 +0800] "GET /springmvc_06_rest/delete?id=1 HTTP/1.1" 404 949 http-bio-8082-exec-1 61
+127.0.0.1 - - [14/Oct/2022:15:56:59 +0800] "GET /springmvc_06_rest/delete?id=1 HTTP/1.1" 200 24 http-bio-8082-exec-1 145
+127.0.0.1 - - [14/Oct/2022:16:01:53 +0800] "POST /springmvc_06_rest/users HTTP/1.1" 200 22 http-bio-8082-exec-1 93
+127.0.0.1 - - [14/Oct/2022:16:09:20 +0800] "POST /springmvc_06_rest/users HTTP/1.1" 404 - http-bio-8082-exec-1 0
+127.0.0.1 - - [14/Oct/2022:16:09:39 +0800] "DELETE /springmvc_06_rest/users/1 HTTP/1.1" 404 - http-bio-8082-exec-3 0
+127.0.0.1 - - [14/Oct/2022:16:10:37 +0800] "DELETE /springmvc_06_rest/users/1 HTTP/1.1" 404 - http-bio-8082-exec-5 0
+127.0.0.1 - - [14/Oct/2022:16:12:00 +0800] "DELETE /springmvc_06_rest/users/1 HTTP/1.1" 200 24 http-bio-8082-exec-1 110
+127.0.0.1 - - [14/Oct/2022:16:15:23 +0800] "POST /springmvc_06_rest/users HTTP/1.1" 200 22 http-bio-8082-exec-3 3
+127.0.0.1 - - [14/Oct/2022:16:15:51 +0800] "PUT /springmvc_06_rest/users HTTP/1.1" 200 24 http-bio-8082-exec-5 92
+127.0.0.1 - - [14/Oct/2022:16:48:58 +0800] "DELETE /springmvc_06_rest/books/1 HTTP/1.1" 200 24 http-bio-8082-exec-1 119
+127.0.0.1 - - [14/Oct/2022:16:49:02 +0800] "POST /springmvc_06_rest/books HTTP/1.1" 200 22 http-bio-8082-exec-3 90
+127.0.0.1 - - [14/Oct/2022:16:49:05 +0800] "PUT /springmvc_06_rest/books HTTP/1.1" 200 24 http-bio-8082-exec-5 3
+127.0.0.1 - - [14/Oct/2022:16:49:08 +0800] "GET /springmvc_06_rest/books/1 HTTP/1.1" 200 25 http-bio-8082-exec-7 4
+127.0.0.1 - - [14/Oct/2022:16:49:11 +0800] "GET /springmvc_06_rest/books HTTP/1.1" 200 24 http-bio-8082-exec-9 2

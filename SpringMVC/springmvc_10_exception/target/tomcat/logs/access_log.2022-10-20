@@ -1,0 +1,4 @@
+127.0.0.1 - - [20/Oct/2022:15:52:50 +0800] "GET /springmvc_10_exception/books/1 HTTP/1.1" 200 61 http-bio-8082-exec-1 723
+127.0.0.1 - - [20/Oct/2022:15:52:56 +0800] "GET /springmvc_10_exception/books/2 HTTP/1.1" 200 79 http-bio-8082-exec-3 3
+127.0.0.1 - - [20/Oct/2022:16:04:48 +0800] "GET /springmvc_10_exception/books/2 HTTP/1.1" 200 70 http-bio-8082-exec-1 679
+127.0.0.1 - - [20/Oct/2022:16:05:37 +0800] "GET /springmvc_10_exception/books/2 HTTP/1.1" 200 70 http-bio-8082-exec-1 94
