@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_02_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_03_di_set/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_04_di_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_05_autoware/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_06_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_07_datasourse/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_08_container/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_10_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_09_annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_11_annotation_ third_bean_manage/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_12_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_13_spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_14_aop_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_15_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_15_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_16_advice_data/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_17_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_18_case_transfer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

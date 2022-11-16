@@ -1,0 +1,31 @@
+
+#设置启用的环境
+spring:
+  profiles:
+    active: dev
+
+#生产环境
+---
+server:
+  port: 8070
+spring:
+  config:
+    activate:
+      on-profile: dev
+
+#开发环境
+---
+server:
+  port: 8071
+spring:
+  profiles: pro
+
+
+#测试环境
+---
+server:
+  port: 8072
+spring:
+  profiles: test
+
+

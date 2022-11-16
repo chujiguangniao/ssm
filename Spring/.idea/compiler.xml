@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring_06_collection" />
+        <module name="Spring_16_advice_data" />
+        <module name="Spring_03_di_set" />
+        <module name="Spring_14_aop_demo" />
+        <module name="Spring_07_datasourse" />
+        <module name="Spring_17_handle_password" />
+        <module name="Spring_01_quickstart" />
+        <module name="Spring_09_annotation_bean" />
+        <module name="Spring_12_spring_mybatis" />
+        <module name="Spring_04_di_constructor" />
+        <module name="Spring_15_case_interface_run_speed" />
+        <module name="Spring_15_run_speed" />
+        <module name="Spring_05_autoware" />
+        <module name="Spring_08_container" />
+        <module name="Spring_10_annotation_di" />
+        <module name="Spring_13_spring_junit" />
+        <module name="Spring_18_case_transfer" />
+        <module name="Spring_11_annotation_ third_bean_manage" />
+        <module name="Spring_02_lifecycle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_01_quickstart" target="8" />
+      <module name="Spring_02_lifecycle" target="8" />
+      <module name="Spring_03_di_set" target="8" />
+      <module name="Spring_04_di_constructor" target="8" />
+      <module name="Spring_05_autoware" target="8" />
+      <module name="Spring_06_collection" target="8" />
+      <module name="Spring_07_datasourse" target="8" />
+      <module name="Spring_08_container" target="8" />
+      <module name="Spring_09_annotation_bean" target="8" />
+      <module name="Spring_10_annotation_di" target="8" />
+      <module name="Spring_11_annotation_ third_bean_manage" target="8" />
+      <module name="Spring_12_spring_mybatis" target="8" />
+      <module name="Spring_13_spring_junit" target="8" />
+      <module name="Spring_14_aop_demo" target="8" />
+      <module name="Spring_15_case_interface_run_speed" target="8" />
+      <module name="Spring_15_run_speed" target="8" />
+      <module name="Spring_16_advice_data" target="8" />
+      <module name="Spring_17_handle_password" target="8" />
+      <module name="Spring_18_case_transfer" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

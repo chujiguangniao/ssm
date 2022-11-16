@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven_01_ssm1" />
+        <module name="maven_03_mapper" />
+        <module name="maven_02_pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven_01_ssm" target="8" />
+      <module name="maven_01_ssm1" target="8" />
+      <module name="maven_02_pojo" target="8" />
+      <module name="maven_03_mapper" target="8" />
+      <module name="maven_parent" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+lesson: springboot
+
+server:
+  port: 8071
+
+#logging:
+#  level:
+#    root: info
+
+enterprise:
+  name: ithiema
+  age: 16
+  tel: 40060070
+  subject:
+    - Java
+    - 前端
+    - 大数据
